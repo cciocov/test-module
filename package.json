@@ -1,0 +1,13 @@
+{
+  "name": "@cciocov/test-module",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/username/be-module-koa2-skel.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
