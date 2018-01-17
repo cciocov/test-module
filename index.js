@@ -5,5 +5,5 @@
  * This is called by the app on startup, if this module is enabled.
  */
 export function setup() {
-  console.log('setup -- some change');
+  console.log('setup -- some change -  new change');
 }
